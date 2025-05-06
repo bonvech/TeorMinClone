@@ -1,2 +1,1 @@
-# TeorMinClone
-Clone of site
+# Teor.Min
